@@ -54,7 +54,7 @@ Under "SPONSORS ADD INFO HERE" heading below, include the following:
 - $71,250 USDC main award pot
 - $3,750 USDC gas optimization award pot
 - Join [C4 Discord](https://discord.gg/code4rena) to register
-- Submit findings [using the C4 form](https://code4rena.com/contests/YYYY-MM-sponsorName-contest/submit)
+- Submit findings [using the C4 form](https://code4rena.com/contests/2022-07-golom-contest/submit)
 - [Read our guidelines for more details](https://docs.code4rena.com/roles/wardens)
 - Starts July 25, 2022 20:00 UTC
 - Ends July 31, 2022 20:00 UTC
