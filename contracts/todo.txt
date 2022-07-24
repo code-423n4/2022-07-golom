@@ -1,0 +1,24 @@
+// mintable token contract that mints daily dynamically to different contracts
+//uniswap lp staking contract
+// how to store daily token rewards and distribute
+//airdrop merkle root
+
+
+
+// should i switch fees to weth
+// should i store balance and then do deposit withdraw
+// what 3 things to index? contract address, signer  , tokenid , XXXX deadline?
+// how much decimals 
+// lp and airdrop contract
+// write storage contract to 
+
+
+
+// locking for small duration and fuck up emission , take ve balance instead of underlying? -> stakers get diluted
+// or take  ve bal and multiply by 4? --> can lead to zero emission very quickly
+
+
+
+
+
+
