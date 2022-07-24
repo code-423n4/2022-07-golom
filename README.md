@@ -53,7 +53,7 @@ Under "SPONSORS ADD INFO HERE" heading below, include the following:
 - Join [C4 Discord](https://discord.gg/code4rena) to register
 - Submit findings [using the C4 form](https://code4rena.com/contests/2022-07-golom-contest/submit)
 - [Read our guidelines for more details](https://docs.code4rena.com/roles/wardens)
-- Starts July 25, 2022 20:00 UTC
-- Ends July 31, 2022 20:00 UTC
+- Starts July 26, 2022 20:00 UTC
+- Ends August 1, 2022 20:00 UTC
 
 [ ⭐️ SPONSORS ADD INFO HERE ]
