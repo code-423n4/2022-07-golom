@@ -117,6 +117,7 @@ npx hardhat test
   28 passing (10s)
 
 ## Scope
+|File|nSLOC|Lines|
 |:-|:-:|:-:|
 |_Contracts (4)_|
 |[contracts/vote-escrow/VoteEscrowDelegation.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/vote-escrow/VoteEscrowDelegation.sol)|138|264|
