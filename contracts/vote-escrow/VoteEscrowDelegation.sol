@@ -3,7 +3,6 @@ pragma solidity 0.8.11;
 
 /// votescrow extended with delegation
 
-import 'hardhat/console.sol';
 // import {Math} from '@openzeppelin-contracts/utils/math/SafeCast.sol';
 
 import '@openzeppelin/contracts/access/Ownable.sol';

@@ -18,11 +18,17 @@ const VoteEscrowArtifacts = ethers.getContractFactory('VoteEscrow');
 const ERC721MockArtifacts = ethers.getContractFactory('ERC721Mock');
 const ERC1155MockArtifacts = ethers.getContractFactory('ERC1155Mock');
 const ERC20MockArtifacts = ethers.getContractFactory('ERC20Mock');
+const WETHArtifacts = ethers.getContractFactory('WETH');
+const GolomTokenArtifacts = ethers.getContractFactory('GolomToken');
+
 
 // import typings
+import { GolomToken as GolomTokenTypes } from '../typechain/GolomToken';
+
 import { GolomTrader as GolomTraderTypes } from '../typechain/GolomTrader';
 import { RewardDistributor as RewardDistributorTypes } from '../typechain/RewardDistributor';
 import { VoteEscrow as VoteEscrowTypes } from '../typechain/VoteEscrow';
+import { WETH as WETHTypes } from '../typechain/WETH';
 
 import { ERC721Mock as ERC721MockTypes } from '../typechain/ERC721Mock';
 import { ERC1155Mock as ERC1155MockTypes } from '../typechain/ERC1155Mock';
@@ -31,9 +37,11 @@ import { ERC20Mock as ERC20MockTypes } from '../typechain/ERC20Mock';
 let testErc20: ERC20MockTypes;
 let testErc721: ERC721MockTypes;
 let testErc1155: ERC1155MockTypes;
+let weth: WETHTypes;
+let golomToken: GolomTokenTypes;
 
 let golomTrader: GolomTraderTypes;
-let voteEscrow: VoteEscrowTypes;
+// let voteEscrow: VoteEscrowTypes;
 let rewardDistributor: RewardDistributorTypes;
 
 let accounts: Signer[];
@@ -43,7 +51,7 @@ let taker: any;
 let exchange: any;
 let prepay: any;
 let postpay: any;
-
+let receiver: "0x0000000000000000000000000000000000000000";
 let domain: any;
 
 const types = {
@@ -78,28 +86,28 @@ describe('Trader.sol', function () {
         prepay = accounts[3];
         postpay = accounts[4];
         governance = accounts[5];
+        receiver = "0x0000000000000000000000000000000000000000";
 
         testErc20 = (await (await ERC20MockArtifacts).deploy()) as ERC20MockTypes;
         testErc721 = (await (await ERC721MockArtifacts).deploy()) as ERC721MockTypes;
         testErc1155 = (await (await ERC1155MockArtifacts).deploy()) as ERC1155MockTypes;
-
+        weth = (await (await WETHArtifacts).deploy()) as WETHTypes;
+        golomToken = (await (await GolomTokenArtifacts).deploy(await accounts[0].getAddress())) as GolomTokenTypes;
         // deploy trader contract
         golomTrader = (await (await GolomTraderArtifacts).deploy(await governance.getAddress())) as GolomTraderTypes;
-        voteEscrow = (await (await VoteEscrowArtifacts).deploy()) as VoteEscrowTypes;
         rewardDistributor = (await (
             await RewardDistributorArtifacts
         ).deploy(
-            Date.now(),
+            weth.address,
             golomTrader.address,
-            testErc20.address,
-            voteEscrow.address,
+            golomToken.address,
             await governance.getAddress()
         )) as RewardDistributorTypes;
 
         domain = {
             name: 'GOLOM.IO',
             version: '1',
-            chainId: 1,
+            chainId: 31337,
             verifyingContract: golomTrader.address,
         };
 
@@ -114,6 +122,7 @@ describe('Trader.sol', function () {
 
     describe('#constructor', () => {
         it('should set governance', async () => {
+            console.log(await golomTrader.owner())
             expect(await golomTrader.owner()).to.be.equals(await governance.getAddress());
         });
     });
@@ -145,12 +154,14 @@ describe('Trader.sol', function () {
                 v: 0,
             };
 
+
             let signature = (await maker._signTypedData(domain, types, order)).substring(2);
 
             order.r = '0x' + signature.substring(0, 64);
             order.s = '0x' + signature.substring(64, 128);
             order.v = parseInt(signature.substring(128, 130), 16);
 
+    
             await expect(
                 golomTrader.connect(taker).fillAsk(
                     order,
@@ -160,6 +171,7 @@ describe('Trader.sol', function () {
                         paymentAmt: prePaymentAmt,
                         paymentAddress: await governance.getAddress(),
                     },
+                    receiver,
                     {
                         value: utils.parseEther('15'),
                     }
@@ -208,6 +220,7 @@ describe('Trader.sol', function () {
                         paymentAmt: prePaymentAmt,
                         paymentAddress: await governance.getAddress(),
                     },
+                    receiver,
                     {
                         value: utils.parseEther('10'),
                     }
@@ -256,6 +269,7 @@ describe('Trader.sol', function () {
                         paymentAmt: prePaymentAmt,
                         paymentAddress: await governance.getAddress(),
                     },
+                    receiver,
                     {
                         value: utils.parseEther('10.25'),
                     }
@@ -283,7 +297,7 @@ describe('Trader.sol', function () {
                 root: '0x0000000000000000000000000000000000000000000000000000000000000000',
                 reservedAddress: constants.AddressZero,
                 nonce: 0,
-                deadline: (await ethers.provider.getBlock(await ethers.provider.getBlockNumber())).timestamp,
+                deadline: Date.now() - 10000000,
                 r: '',
                 s: '',
                 v: 0,
@@ -294,7 +308,19 @@ describe('Trader.sol', function () {
             order.r = '0x' + signature.substring(0, 64);
             order.s = '0x' + signature.substring(64, 128);
             order.v = parseInt(signature.substring(128, 130), 16);
-
+            golomTrader.connect(taker).fillAsk(
+                order,
+                1,
+                '0x0000000000000000000000000000000000000000',
+                {
+                    paymentAmt: prePaymentAmt,
+                    paymentAddress: await governance.getAddress(),
+                },
+                receiver,
+                {
+                    value: utils.parseEther('10.25'),
+                }
+            )
             await expect(
                 golomTrader.connect(taker).fillAsk(
                     order,
@@ -304,6 +330,7 @@ describe('Trader.sol', function () {
                         paymentAmt: prePaymentAmt,
                         paymentAddress: await governance.getAddress(),
                     },
+                    receiver,
                     {
                         value: utils.parseEther('10.25'),
                     }
@@ -335,7 +362,7 @@ describe('Trader.sol', function () {
                 r: '',
                 s: '',
                 v: 0,
-            };
+            };    
 
             let signature = (await maker._signTypedData(domain, types, order)).substring(2);
 
@@ -351,6 +378,7 @@ describe('Trader.sol', function () {
                     paymentAmt: prePaymentAmt,
                     paymentAddress: await governance.getAddress(),
                 },
+                receiver,
                 {
                     value: utils.parseEther('10.25'),
                 }
@@ -400,6 +428,7 @@ describe('Trader.sol', function () {
                     paymentAmt: prePaymentAmt,
                     paymentAddress: await governance.getAddress(),
                 },
+                receiver,
                 {
                     value: utils.parseEther('10.25'),
                 }
@@ -448,6 +477,7 @@ describe('Trader.sol', function () {
                     paymentAmt: prePaymentAmt,
                     paymentAddress: await governance.getAddress(),
                 },
+                receiver,
                 {
                     value: utils.parseEther('10.25'),
                 }
@@ -496,6 +526,7 @@ describe('Trader.sol', function () {
                     paymentAmt: prePaymentAmt,
                     paymentAddress: await governance.getAddress(),
                 },
+                receiver,
                 {
                     value: utils.parseEther('10.25'),
                 }
@@ -546,6 +577,7 @@ describe('Trader.sol', function () {
                     paymentAmt: prePaymentAmt,
                     paymentAddress: await governance.getAddress(),
                 },
+                receiver,
                 {
                     value: utils.parseEther('10.25'),
                 }
@@ -598,6 +630,7 @@ describe('Trader.sol', function () {
                     paymentAmt: prePaymentAmt,
                     paymentAddress: await governance.getAddress(),
                 },
+                receiver,
                 {
                     value: utils.parseEther('10.25'),
                 }

@@ -4,7 +4,7 @@
 // require('hardhat-etherscan-abi');
 
 import { HardhatUserConfig, task } from 'hardhat/config';
-
+import "hardhat-gas-reporter"
 import '@typechain/hardhat';
 import '@typechain/hardhat';
 import '@nomiclabs/hardhat-ethers';
@@ -35,6 +35,7 @@ export default {
             allowUnlimitedContractSize: true,
             gas: 12000000,
             blockGasLimit: 0x1fffffffffffff,
+
         },
         mainnet: {
             url: 'https://eth.golom.io',

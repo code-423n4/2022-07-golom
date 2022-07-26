@@ -57,7 +57,7 @@ describe('GolomToken.sol', () => {
         it('should mint the genesis reward tokens', async () => {
             await golomToken.mintGenesisReward(await accounts[1].getAddress());
             expect(await golomToken.balanceOf(await accounts[1].getAddress())).to.be.equals(
-                '50000000000000000000000000'
+                '62500000000000000000000000'
             );
         });
     });

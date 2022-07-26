@@ -42,6 +42,7 @@ let taker: any;
 let exchange: any;
 let prepay: any;
 let postpay: any;
+let receiver: "0x0000000000000000000000000000000000000000";
 
 let domain: any;
 
@@ -87,27 +88,26 @@ describe('RewardDistributor.sol', function () {
 
         // deploy trader contract
         golomTrader = (await (await GolomTraderArtifacts).deploy(await governance.getAddress())) as GolomTraderTypes;
-        voteEscrow = (await (await VoteEscrowArtifacts).deploy()) as VoteEscrowTypes;
+        // voteEscrow = (await (await VoteEscrowArtifacts).deploy()) as VoteEscrowTypes;
         golomToken = (await (await GolomTokenArtifacts).deploy(await governance.getAddress())) as GolomTokenTypes;
 
         genesisStartTime = Math.floor(Date.now() / 1000);
-        console.log({ genesisStartTime });
 
         rewardDistributor = (await (
             await RewardDistributorArtifacts
         ).deploy(
             weth.address,
-            genesisStartTime,
             golomTrader.address,
             golomToken.address,
             await governance.getAddress()
         )) as RewardDistributorTypes;
 
+
         await golomToken.connect(governance).mintGenesisReward(rewardDistributor.address);
         await golomToken.connect(governance).setMinter(rewardDistributor.address);
         await golomToken.connect(governance).executeSetMinter();
 
-        await rewardDistributor.connect(governance).addVoteEscrow(voteEscrow.address);
+        await rewardDistributor.connect(governance).addVoteEscrow(await governance.getAddress());
         await rewardDistributor.connect(governance).executeAddVoteEscrow();
         let timestamp = await getTimestamp();
 
@@ -142,168 +142,6 @@ describe('RewardDistributor.sol', function () {
 
         it('should set governance', async () => {});
     });
-
-    describe('#addFee', async () => {
-        // it('should not mint anything if supply > 1B', async () => {
-        //     let exchangeAmount = ethers.utils.parseEther('1'); // cut for the exchanges
-        //     let prePaymentAmt = ethers.utils.parseEther('0.25'); // royalty cut
-        //     let totalAmt = ethers.utils.parseEther('10');
-        //     let tokenId = await testErc721.current();
-
-        //     const order = {
-        //         collection: testErc721.address,
-        //         tokenId: tokenId,
-        //         signer: await maker.getAddress(),
-        //         orderType: 0,
-        //         totalAmt: totalAmt,
-        //         exchange: { paymentAmt: exchangeAmount, paymentAddress: await exchange.getAddress() },
-        //         prePayment: { paymentAmt: prePaymentAmt, paymentAddress: await prepay.getAddress() },
-        //         isERC721: true,
-        //         tokenAmt: 1,
-        //         refererrAmt: 0,
-        //         root: '0x0000000000000000000000000000000000000000000000000000000000000000',
-        //         reservedAddress: constants.AddressZero,
-        //         nonce: 0,
-        //         deadline: Date.now() + 100000,
-        //         r: '',
-        //         s: '',
-        //         v: 0,
-        //     };
-
-        //     let signature = (await maker._signTypedData(domain, types, order)).substring(2);
-
-        //     order.r = '0x' + signature.substring(0, 64);
-        //     order.s = '0x' + signature.substring(64, 128);
-        //     order.v = parseInt(signature.substring(128, 130), 16);
-
-        //     await golomTrader.connect(taker).fillAsk(
-        //         order,
-        //         1,
-        //         '0x0000000000000000000000000000000000000000',
-        //         {
-        //             paymentAmt: prePaymentAmt,
-        //             paymentAddress: await governance.getAddress(),
-        //         },
-        //         {
-        //             value: utils.parseEther('10.25'),
-        //         }
-        //     );
-        // });
-
-        // it('should not mint anything genesis is not started', async () => {});
-
-        it('should mint reward for genesis period', async () => {
-            let exchangeAmount = ethers.utils.parseEther('1'); // cut for the exchanges
-            let prePaymentAmt = ethers.utils.parseEther('0.25'); // royalty cut
-            let totalAmt = ethers.utils.parseEther('10');
-            let tokenId = await testErc721.current();
-
-            const order = {
-                collection: testErc721.address,
-                tokenId: tokenId,
-                signer: await maker.getAddress(),
-                orderType: 0,
-                totalAmt: totalAmt,
-                exchange: { paymentAmt: exchangeAmount, paymentAddress: await exchange.getAddress() },
-                prePayment: { paymentAmt: prePaymentAmt, paymentAddress: await prepay.getAddress() },
-                isERC721: true,
-                tokenAmt: 1,
-                refererrAmt: 0,
-                root: '0x0000000000000000000000000000000000000000000000000000000000000000',
-                reservedAddress: constants.AddressZero,
-                nonce: 0,
-                deadline: Date.now() + 100000000,
-                r: '',
-                s: '',
-                v: 0,
-            };
-
-            let signature = (await maker._signTypedData(domain, types, order)).substring(2);
-
-            order.r = '0x' + signature.substring(0, 64);
-            order.s = '0x' + signature.substring(64, 128);
-            order.v = parseInt(signature.substring(128, 130), 16);
-            3;
-            let timestamp = await getTimestamp();
-
-            await ethers.provider.send('evm_mine', [timestamp + 100000]);
-
-            // await golomTrader.connect(taker).fillAsk(
-            //     order,
-            //     1,
-            //     '0x0000000000000000000000000000000000000000',
-            //     {
-            //         paymentAmt: prePaymentAmt,
-            //         paymentAddress: await governance.getAddress(),
-            //     },
-            //     {
-            //         value: utils.parseEther('10.25'),
-            //     }
-            // );
-
-            let i: number = 0;
-
-            while (i < 30) {
-                await testErc721.mint(await maker.getAddress());
-
-                let exchangeAmount = ethers.utils.parseEther('1'); // cut for the exchanges
-                let prePaymentAmt = ethers.utils.parseEther('0.25'); // royalty cut
-                let totalAmt = ethers.utils.parseEther('10');
-                let tokenId = await testErc721.current();
-
-                const order = {
-                    collection: testErc721.address,
-                    tokenId: tokenId,
-                    signer: await maker.getAddress(),
-                    orderType: 0,
-                    totalAmt: totalAmt,
-                    exchange: { paymentAmt: exchangeAmount, paymentAddress: await exchange.getAddress() },
-                    prePayment: { paymentAmt: prePaymentAmt, paymentAddress: await prepay.getAddress() },
-                    isERC721: true,
-                    tokenAmt: 1,
-                    refererrAmt: 0,
-                    root: '0x0000000000000000000000000000000000000000000000000000000000000000',
-                    reservedAddress: constants.AddressZero,
-                    nonce: 0,
-                    deadline: Date.now() + 100000000,
-                    r: '',
-                    s: '',
-                    v: 0,
-                };
-
-                let signature = (await maker._signTypedData(domain, types, order)).substring(2);
-
-                order.r = '0x' + signature.substring(0, 64);
-                order.s = '0x' + signature.substring(64, 128);
-                order.v = parseInt(signature.substring(128, 130), 16);
-
-                const timestamp = await getTimestamp();
-
-                await ethers.provider.send('evm_mine', [timestamp + 86400]);
-
-                await golomTrader.connect(taker).fillAsk(
-                    order,
-                    1,
-                    '0x0000000000000000000000000000000000000000',
-                    {
-                        paymentAmt: prePaymentAmt,
-                        paymentAddress: await governance.getAddress(),
-                    },
-                    {
-                        value: utils.parseEther('10.25'),
-                    }
-                );
-
-                i++;
-            }
-
-            await rewardDistributor.genesisClaim(await maker.getAddress(), [1]);
-        });
-
-        it('should not mint anything genesis is not started', async () => {});
-    });
-
-    describe('#genesisClaim', async () => {});
 
     describe('#traderClaim', async () => {
         let exchangeAmount = ethers.utils.parseEther('1'); // cut for the exchanges
@@ -402,6 +240,7 @@ describe('RewardDistributor.sol', function () {
                     paymentAmt: prePaymentAmt,
                     paymentAddress: await governance.getAddress(),
                 },
+                receiver,
                 {
                     value: utils.parseEther('10.25'),
                 }
@@ -510,6 +349,7 @@ describe('RewardDistributor.sol', function () {
                     paymentAmt: prePaymentAmt,
                     paymentAddress: await governance.getAddress(),
                 },
+                receiver,
                 {
                     value: utils.parseEther('10.25'),
                 }
