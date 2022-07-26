@@ -228,6 +228,5 @@ This contract emits any valid signed order as an indexed event for easy querying
 
 
 # Project docs
-https://docs.golom.io/ (note that there is typo in https://docs.golom.io/emissions with 500,000 tokens as daily emission instead of actual value of 600,000 in contract)
-
+https://docs.golom.io/ 
 
