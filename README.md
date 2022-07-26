@@ -177,6 +177,8 @@ This contract emits any valid signed order as an indexed event for easy querying
 # Project docs
 https://docs.golom.io/
 
+# Previous peer reviewed audit
+https://github.com/lucash-dev/audits/blob/main/golom_audit1_updated.pdf
 
 # Scoping questions
 ```
