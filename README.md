@@ -10,13 +10,13 @@
 
 # Compiling 
 
-```shell
+```
 yarn install
 npx hardhat compile
 npx hardhat test
 ```
 
-## Gas reports
+# Gas report
 ```
 -----------------------------------------------|---------------------------|-------------|--------------------------------------
 
@@ -111,15 +111,12 @@ npx hardhat test
 |  WETH                                        -          -  -          -  -     572761  -              0 %  -              -  │
 
 -----------------------------------------------|-------------|-------------|-------------|-------------------|------------------
+  28 passing (10s)
 ```
 
 
-
-
-  28 passing (10s)
-
-## Scope
-### Files in scope
+# Scope
+## Files in scope
 |File|nSLOC|Lines|
 |:-|:-:|:-:|
 |_Contracts (5)_|
@@ -133,7 +130,7 @@ npx hardhat test
 |Total (over 5 files):| 1366 | 2428 |
 
 
-### All other source contracts (not in scope)
+## All other source contracts (not in scope)
 |File|nSLOC|Lines|
 |:-|:-:|:-:|
 |_Contracts (4)_|
@@ -174,11 +171,11 @@ npx hardhat test
 
 
 
-## Summary of contracts in Scope
+# Summary of contracts in Scope
 
-# Core
+## Core
 
-GolomTrader.sol
+### GolomTrader.sol
 
 Description:
 
@@ -187,9 +184,9 @@ This contract acts as the Nft trade matcher with 3 different functions for the 3
 
 
 
-# Rewards
+## Rewards
 
-RewardDistributor.sol
+### RewardDistributor.sol
 
 Types of reward distribution:
 
@@ -206,9 +203,9 @@ How rewards are calculated.
 
 
 
-# Vote escrow
+## Vote escrow
 
-VoteEscrowDelegation.sol
+### VoteEscrowDelegation.sol
 
 This contract inherits VoteEscrowCore.sol which is a fork of Andre's solidly project (https://github.com/solidlyexchange/solidly/blob/master/contracts/ve.sol) and implements delegation for upgrading other contracts by voting.
 
@@ -217,11 +214,11 @@ Solidly is a fork of curve voting mechanism which makes each lock as an NFT and 
 
 
 
-## Summary of contracts NOT in Scope
+# Summary of contracts NOT in Scope
 
-# Core
+## Core
 
-Emitter.sol 
+### Emitter.sol 
 
 This contract emits any valid signed order as an indexed event for easy querying. this contract will be deployed on polygon.
 
@@ -229,7 +226,7 @@ This contract emits any valid signed order as an indexed event for easy querying
 # Project docs
 https://docs.golom.io/ 
 
-## Scoping details answers
+# Scoping questions
 
 ```
 Contracts in scope: 6
