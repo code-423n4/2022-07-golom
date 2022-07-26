@@ -18,156 +18,108 @@ npx hardhat test
 
 # Gas report
 ```
------------------------------------------------|---------------------------|-------------|--------------------------------------
-
-|             Solc version: 0.8.11             -  Optimizer enabled: true  -  Runs: 200  -  Block limit: 9007199254740991 gas  │
-
------------------------------------------------|---------------------------|-------------|--------------------------------------
-
-|  Methods                                                                                                                     │
-
-----------------------|------------------------|-------------|-------------|-------------|-------------------|------------------
-
-|  Contract           -  Method                -  Min        -  Max        -  Avg        -  # calls          -  eur (avg)      │
-
-----------------------|------------------------|-------------|-------------|-------------|-------------------|------------------
-
-|  ERC1155Mock        -  setApprovalForAll     -      46213  -      46225  -      46223  -               20  -              -  │
-
-----------------------|------------------------|-------------|-------------|-------------|-------------------|------------------
-
-|  ERC721Mock         -  mint                  -          -  -          -  -      90772  -               20  -              -  │
-
-----------------------|------------------------|-------------|-------------|-------------|-------------------|------------------
-
-|  ERC721Mock         -  setApprovalForAll     -      46168  -      46180  -      46178  -               20  -              -  │
-
-----------------------|------------------------|-------------|-------------|-------------|-------------------|------------------
-
-|  GolomToken         -  executeSetMinter      -          -  -          -  -      47798  -                9  -              -  │
-
-----------------------|------------------------|-------------|-------------|-------------|-------------------|------------------
-
-|  GolomToken         -  mint                  -          -  -          -  -     120177  -                1  -              -  │
-
-----------------------|------------------------|-------------|-------------|-------------|-------------------|------------------
-
-|  GolomToken         -  mintAirdrop           -          -  -          -  -     142282  -                2  -              -  │
-
-----------------------|------------------------|-------------|-------------|-------------|-------------------|------------------
-
-|  GolomToken         -  mintGenesisReward     -          -  -          -  -     142260  -                8  -              -  │
-
-----------------------|------------------------|-------------|-------------|-------------|-------------------|------------------
-
-|  GolomToken         -  setMinter             -      34134  -      68334  -      54652  -               10  -              -  │
-
-----------------------|------------------------|-------------|-------------|-------------|-------------------|------------------
-
-|  GolomTrader        -  fillAsk               -     238153  -     241948  -     241397  -                7  -              -  │
-
-----------------------|------------------------|-------------|-------------|-------------|-------------------|------------------
-
-|  GolomTrader        -  setDistributor        -      46281  -      70449  -      47432  -               21  -              -  │
-
-----------------------|------------------------|-------------|-------------|-------------|-------------------|------------------
-
-|  RewardDistributor  -  addVoteEscrow         -          -  -          -  -      28462  -                6  -              -  │
-
-----------------------|------------------------|-------------|-------------|-------------|-------------------|------------------
-
-|  RewardDistributor  -  executeAddVoteEscrow  -          -  -          -  -      29954  -                6  -              -  │
-
-----------------------|------------------------|-------------|-------------|-------------|-------------------|------------------
-
-|  Deployments                                 -                                         -  % of limit       -                 │
-
------------------------------------------------|-------------|-------------|-------------|-------------------|------------------
-
-|  ERC1155Mock                                 -          -  -          -  -    1482781  -              0 %  -              -  │
-
------------------------------------------------|-------------|-------------|-------------|-------------------|------------------
-
-|  ERC20Mock                                   -          -  -          -  -     496811  -              0 %  -              -  │
-
------------------------------------------------|-------------|-------------|-------------|-------------------|------------------
-
-|  ERC721Mock                                  -          -  -          -  -    1210377  -              0 %  -              -  │
-
------------------------------------------------|-------------|-------------|-------------|-------------------|------------------
-
-|  GolomToken                                  -          -  -          -  -    1998674  -              0 %  -              -  │
-
------------------------------------------------|-------------|-------------|-------------|-------------------|------------------
-
-|  GolomTrader                                 -          -  -          -  -    2013842  -              0 %  -              -  │
-
------------------------------------------------|-------------|-------------|-------------|-------------------|------------------
-
-|  RewardDistributor                           -    2379507  -    2379543  -    2379537  -              0 %  -              -  │
-
------------------------------------------------|-------------|-------------|-------------|-------------------|------------------
-
-|  WETH                                        -          -  -          -  -     572761  -              0 %  -              -  │
-
------------------------------------------------|-------------|-------------|-------------|-------------------|------------------
-  28 passing (10s)
+·----------------------------------------------|---------------------------|-------------|-------------------------------------·
+|             Solc version: 0.8.11             ·  Optimizer enabled: true  ·  Runs: 200  ·  Block limit: 9007199254740991 gas  │
+···············································|···························|·············|······································
+|  Methods                                                                                                                     │
+······················|························|·············|·············|·············|···················|··················
+|  Contract           ·  Method                ·  Min        ·  Max        ·  Avg        ·  # calls          ·  eur (avg)      │
+······················|························|·············|·············|·············|···················|··················
+|  ERC1155Mock        ·  setApprovalForAll     ·      46213  ·      46225  ·      46223  ·               20  ·              -  │
+······················|························|·············|·············|·············|···················|··················
+|  ERC721Mock         ·  mint                  ·          -  ·          -  ·      90772  ·               20  ·              -  │
+······················|························|·············|·············|·············|···················|··················
+|  ERC721Mock         ·  setApprovalForAll     ·      46168  ·      46180  ·      46178  ·               20  ·              -  │
+······················|························|·············|·············|·············|···················|··················
+|  GolomToken         ·  executeSetMinter      ·          -  ·          -  ·      47798  ·                9  ·              -  │
+······················|························|·············|·············|·············|···················|··················
+|  GolomToken         ·  mint                  ·          -  ·          -  ·     120177  ·                1  ·              -  │
+······················|························|·············|·············|·············|···················|··················
+|  GolomToken         ·  mintAirdrop           ·          -  ·          -  ·     142282  ·                2  ·              -  │
+······················|························|·············|·············|·············|···················|··················
+|  GolomToken         ·  mintGenesisReward     ·          -  ·          -  ·     142260  ·                8  ·              -  │
+······················|························|·············|·············|·············|···················|··················
+|  GolomToken         ·  setMinter             ·      34134  ·      68334  ·      54652  ·               10  ·              -  │
+······················|························|·············|·············|·············|···················|··················
+|  GolomTrader        ·  fillAsk               ·     238141  ·     241948  ·     241397  ·                7  ·              -  │
+······················|························|·············|·············|·············|···················|··················
+|  GolomTrader        ·  setDistributor        ·      46281  ·      70449  ·      47432  ·               21  ·              -  │
+······················|························|·············|·············|·············|···················|··················
+|  RewardDistributor  ·  addVoteEscrow         ·          -  ·          -  ·      28462  ·                6  ·              -  │
+······················|························|·············|·············|·············|···················|··················
+|  RewardDistributor  ·  executeAddVoteEscrow  ·          -  ·          -  ·      29954  ·                6  ·              -  │
+······················|························|·············|·············|·············|···················|··················
+|  Deployments                                 ·                                         ·  % of limit       ·                 │
+···············································|·············|·············|·············|···················|··················
+|  ERC1155Mock                                 ·          -  ·          -  ·    1482781  ·              0 %  ·              -  │
+···············································|·············|·············|·············|···················|··················
+|  ERC20Mock                                   ·          -  ·          -  ·     496811  ·              0 %  ·              -  │
+···············································|·············|·············|·············|···················|··················
+|  ERC721Mock                                  ·          -  ·          -  ·    1210377  ·              0 %  ·              -  │
+···············································|·············|·············|·············|···················|··················
+|  GolomToken                                  ·          -  ·          -  ·    1998674  ·              0 %  ·              -  │
+···············································|·············|·············|·············|···················|··················
+|  GolomTrader                                 ·          -  ·          -  ·    2013842  ·              0 %  ·              -  │
+···············································|·············|·············|·············|···················|··················
+|  RewardDistributor                           ·    2379507  ·    2379543  ·    2379537  ·              0 %  ·              -  │
+···············································|·············|·············|·············|···················|··················
+|  WETH                                        ·          -  ·          -  ·     572761  ·              0 %  ·              -  │
+·----------------------------------------------|-------------|-------------|-------------|-------------------|-----------------·
+  28 passing (10s)
 ```
-
 
 # Scope
 ## Files in scope
 |File|nSLOC|Lines|
 |:-|:-:|:-:|
 |_Contracts (5)_|
-|[contracts/governance/GolomToken.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/governance/GolomToken.sol)|42|73|
-|[contracts/vote-escrow/VoteEscrowDelegation.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/vote-escrow/VoteEscrowDelegation.sol)|138|264|
-|[contracts/rewards/RewardDistributor.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/rewards/RewardDistributor.sol)|218|316|
-|[contracts/core/GolomTrader.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/core/GolomTrader.sol)|298|462|
-|[contracts/vote-escrow/VoteEscrowCore.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/vote-escrow/VoteEscrowCore.sol)|596|1237|
+|[contracts/governance/GolomToken.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/governance/GolomToken.sol)|42|73|
+|[contracts/vote-escrow/VoteEscrowDelegation.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/vote-escrow/VoteEscrowDelegation.sol)|137|263|
+|[contracts/rewards/RewardDistributor.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/rewards/RewardDistributor.sol)|218|316|
+|[contracts/core/GolomTrader.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/core/GolomTrader.sol)|298|462|
+|[contracts/vote-escrow/VoteEscrowCore.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/vote-escrow/VoteEscrowCore.sol)|596|1237|
 |_Libraries (1)_|
-|[contracts/vote-escrow/TokenUriHelper.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/vote-escrow/TokenUriHelper.sol)|116|149|
-|Total (over 5 files):| 1366 | 2428 |
+|[contracts/vote-escrow/TokenUriHelper.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/vote-escrow/TokenUriHelper.sol)|116|149|
+|Total (over 6 files):| 1407 | 2500 |
 
 
 ## All other source contracts (not in scope)
 |File|nSLOC|Lines|
 |:-|:-:|:-:|
 |_Contracts (4)_|
-|[contracts/governance/Timlock.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/governance/Timlock.sol)|103|155|
-|[contracts/core/Emitter.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/core/Emitter.sol)|130|150|
-|[contracts/rewards/GolomAirdrop.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/rewards/GolomAirdrop.sol)|150|207|
-|[contracts/governance/GovernerBravo.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/governance/GovernerBravo.sol)|301|472|
-|Total (over 5 files):| 726 | 1057 |
+|[contracts/governance/Timlock.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/governance/Timlock.sol)|103|155|
+|[contracts/core/Emitter.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/core/Emitter.sol)|130|150|
+|[contracts/rewards/GolomAirdrop.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/rewards/GolomAirdrop.sol)|150|207|
+|[contracts/governance/GovernerBravo.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/governance/GovernerBravo.sol)|301|472|
+|Total (over 4 files):| 684 | 984 |
 
 
-## External imports
+# External imports
 * **@openzeppelin/contracts/access/Ownable.sol**
-  * [contracts/core/GolomTrader.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/core/GolomTrader.sol)
-  * ~~[contracts/governance/GolomToken.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/governance/GolomToken.sol)~~
-  * ~~[contracts/rewards/GolomAirdrop.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/rewards/GolomAirdrop.sol)~~
-  * [contracts/rewards/RewardDistributor.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/rewards/RewardDistributor.sol)
-  * [contracts/vote-escrow/VoteEscrowDelegation.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/vote-escrow/VoteEscrowDelegation.sol)
+  * [contracts/core/GolomTrader.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/core/GolomTrader.sol)
+  * [contracts/governance/GolomToken.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/governance/GolomToken.sol)
+  * ~~[contracts/rewards/GolomAirdrop.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/rewards/GolomAirdrop.sol)~~
+  * [contracts/rewards/RewardDistributor.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/rewards/RewardDistributor.sol)
+  * [contracts/vote-escrow/VoteEscrowDelegation.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/vote-escrow/VoteEscrowDelegation.sol)
 * **@openzeppelin/contracts/security/Pausable.sol**
-  * ~~[contracts/rewards/GolomAirdrop.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/rewards/GolomAirdrop.sol)~~
+  * ~~[contracts/rewards/GolomAirdrop.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/rewards/GolomAirdrop.sol)~~
 * **@openzeppelin/contracts/security/ReentrancyGuard.sol**
-  * [contracts/core/GolomTrader.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/core/GolomTrader.sol)
-  * ~~[contracts/rewards/GolomAirdrop.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/rewards/GolomAirdrop.sol)~~
+  * [contracts/core/GolomTrader.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/core/GolomTrader.sol)
+  * ~~[contracts/rewards/GolomAirdrop.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/rewards/GolomAirdrop.sol)~~
 * **@openzeppelin/contracts/token/ERC1155/IERC1155.sol**
-  * ~~[contracts/rewards/GolomAirdrop.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/rewards/GolomAirdrop.sol)~~
+  * ~~[contracts/rewards/GolomAirdrop.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/rewards/GolomAirdrop.sol)~~
 * **@openzeppelin/contracts/token/ERC20/extensions/ERC20Votes.sol**
-  * ~~[contracts/governance/GolomToken.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/governance/GolomToken.sol)~~
+  * [contracts/governance/GolomToken.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/governance/GolomToken.sol)
 * **@openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol**
-  * ~~[contracts/rewards/GolomAirdrop.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/rewards/GolomAirdrop.sol)~~
+  * ~~[contracts/rewards/GolomAirdrop.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/rewards/GolomAirdrop.sol)~~
 * **@openzeppelin/contracts/token/ERC721/IERC721.sol**
-  * ~~[contracts/rewards/GolomAirdrop.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/rewards/GolomAirdrop.sol)~~
+  * ~~[contracts/rewards/GolomAirdrop.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/rewards/GolomAirdrop.sol)~~
 * **@openzeppelin/contracts/utils/cryptography/MerkleProof.sol**
-  * ~~[contracts/rewards/GolomAirdrop.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/rewards/GolomAirdrop.sol)~~
+  * ~~[contracts/rewards/GolomAirdrop.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/rewards/GolomAirdrop.sol)~~
 * **@openzeppelin/contracts/utils/math/SafeMath.sol**
-  * ~~[contracts/governance/Timlock.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/governance/Timlock.sol)~~
+  * ~~[contracts/governance/Timlock.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/governance/Timlock.sol)~~
 * **hardhat/console.sol**
-  * [contracts/rewards/RewardDistributor.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/rewards/RewardDistributor.sol)
-  * [contracts/vote-escrow/VoteEscrowDelegation.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/vote-escrow/VoteEscrowDelegation.sol)
+  * [contracts/rewards/RewardDistributor.sol](https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/rewards/RewardDistributor.sol)
 
 
 
@@ -213,7 +165,6 @@ Solidly is a fork of curve voting mechanism which makes each lock as an NFT and 
 
 
 
-
 # Summary of contracts NOT in Scope
 
 ## Core
@@ -224,10 +175,10 @@ This contract emits any valid signed order as an indexed event for easy querying
 
 
 # Project docs
-https://docs.golom.io/ 
+https://docs.golom.io/
+
 
 # Scoping questions
-
 ```
 Contracts in scope: 6
 SLOC: 1407
