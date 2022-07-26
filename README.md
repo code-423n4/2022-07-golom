@@ -15,6 +15,9 @@ yarn install
 npx hardhat compile
 npx hardhat test
 ```
+
+## Gas reports
+```
 -----------------------------------------------|---------------------------|-------------|--------------------------------------
 
 |             Solc version: 0.8.11             -  Optimizer enabled: true  -  Runs: 200  -  Block limit: 9007199254740991 gas  │
@@ -108,10 +111,15 @@ npx hardhat test
 |  WETH                                        -          -  -          -  -     572761  -              0 %  -              -  │
 
 -----------------------------------------------|-------------|-------------|-------------|-------------------|------------------
+```
+
+
+
 
   28 passing (10s)
 
 ## Scope
+### Files in scope
 |File|nSLOC|Lines|
 |:-|:-:|:-:|
 |_Contracts (5)_|
@@ -123,14 +131,6 @@ npx hardhat test
 |_Libraries (1)_|
 |[contracts/vote-escrow/TokenUriHelper.sol](https://github.com/code-423n4/2022-07-golom/blob/f6711139d1430316ec7faddcf8e47aa3098762d9/contracts/vote-escrow/TokenUriHelper.sol)|116|149|
 |Total (over 5 files):| 1366 | 2428 |
-
-
-### Direct parent contracts of in-scope contracts (not in scope)
-None
-
-
-### Other contracts directly imported by in-scope contracts (not in scope)
-None
 
 
 ### All other source contracts (not in scope)
@@ -174,7 +174,7 @@ None
 
 
 
-# Summary of contracts in Scope
+## Summary of contracts in Scope
 
 # Core
 
@@ -216,7 +216,7 @@ Solidly is a fork of curve voting mechanism which makes each lock as an NFT and 
 
 
 
-# Summary of contracts NOT in Scope
+## Summary of contracts NOT in Scope
 
 # Core
 
