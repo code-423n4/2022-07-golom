@@ -216,6 +216,7 @@ Solidly is a fork of curve voting mechanism which makes each lock as an NFT and 
 
 
 
+
 ## Summary of contracts NOT in Scope
 
 # Core
@@ -228,3 +229,25 @@ This contract emits any valid signed order as an indexed event for easy querying
 # Project docs
 https://docs.golom.io/ 
 
+## Scoping details answers
+
+```
+Contracts in scope: 6
+SLOC: 1407
+Libraries: -
+External calls: -
+Oracle: No
+Oracle description: 
+Token is ERC20? Yes
+Novel/unique curve logic or math: curve locking, staking logic forked from curve
+Timelock: Yes
+NFT: Yes
+AMM: No
+Fork of another project? Yes
+Customizations to forked project: Staking forked
+Use rollups: No
+Is multichain: No
+Uses sidechain: No
+Sidechain is EVM compatible: No
+Will participants need to understand other portions of the code/project? no
+```
