@@ -1,0 +1,1718 @@
+==============================================================
+Guild: Code4rena
+Channel: ARCHIVE-Q3-2022 / golom-july26
+==============================================================
+
+[07/22/2022 5:05 PM] kartoonjoy
+👋 Hello and welcome to the contest channel for the $75K USDC **Golom** contest!
+
+📆 Contest opens 07/26/2022 8:00 PM (20:00 UTC) and runs through 08/01/2022 8:00 PM (20:00 UTC) (6 days).
+
+Please give a warm welcome to the Golom team, particularly @Saruman, who will be available for questions either here in the channel or via DM.
+
+We'll be posting relevant links, documentation, etc. here, so if you intend to participate in this contest, consider enabling notifications for this channel. 🐺 ⏰
+
+Contest Page: https://code4rena.com/contests/2022-07-golom-contest
+
+{Embed}
+https://code4rena.com/contests/2022-07-golom-contest
+Code4rena Golom contest
+$75,000 USDC
+26 July 2022—1 August 2022
+Code4rena - ARCHIVE-Q3-2022 - golom-july26 [1000079019129184286].txt_Files/e90a7c28-ddcc-4e60-8ecb-15b2da2b0933-DDCE0
+
+{Reactions}
+👋 (40) 🔥 (15) nice (7) 👆 (4) 💍 (6) C4Keycap (4) 
+
+[07/22/2022 5:05 PM] ak19966
+👏
+
+
+[07/22/2022 5:13 PM] JohnSmith#1623
+https://tenor.com/view/lotr-lord-of-the-rings-billy-boyd-peregrin-took-cheers-gif-4727251
+
+{Embed}
+https://tenor.com/view/lotr-lord-of-the-rings-billy-boyd-peregrin-took-cheers-gif-4727251
+Code4rena - ARCHIVE-Q3-2022 - golom-july26 [1000079019129184286].txt_Files/lotr-lord-of-the-rings-AF4AE.png
+
+{Reactions}
+😂 (6) nice (2) 
+
+[07/22/2022 5:32 PM] fudgydrs
+:6594_pepe_wine:
+
+
+[07/22/2022 6:06 PM] nine_december
+https://tenor.com/view/precious-lotr-gollum-lord-of-the-rings-gif-4732834
+
+{Embed}
+https://tenor.com/view/precious-lotr-gollum-lord-of-the-rings-gif-4732834
+my precious
+Code4rena - ARCHIVE-Q3-2022 - golom-july26 [1000079019129184286].txt_Files/precious-lotr-98666.png
+
+{Reactions}
+💯 (17) 
+
+[07/23/2022 2:24 AM] CRYP70#8985
+Welcome! @Saruman  😁
+
+
+[07/23/2022 3:29 AM] exd0tpy
+hm ☀️
+
+
+[07/23/2022 10:57 AM] Franfran#5067
+hm 🔆
+
+{Reactions}
+🔆 (2) 
+
+[07/23/2022 12:11 PM] philogy
+Hmm! 🙌
+
+
+[07/23/2022 2:54 PM] Deleted User
+my first contest, am very excited, gl all
+
+{Reactions}
+🦾 (14) 
+
+[07/23/2022 4:37 PM] Saruman#3899
+https://tenor.com/view/welcome-lotr-saruman-lord-of-the-rings-gif-16366383
+
+{Embed}
+https://tenor.com/view/welcome-lotr-saruman-lord-of-the-rings-gif-16366383
+Code4rena - ARCHIVE-Q3-2022 - golom-july26 [1000079019129184286].txt_Files/welcome-lotr-71B79.png
+
+{Reactions}
+nice (2) 
+
+[07/23/2022 4:37 PM] Saruman#3899
+hello everyone
+
+{Reactions}
+👋 (13) 
+
+[07/24/2022 2:12 AM] 100proof
+So are you Saruman the White or Saruman of Many Colours? 😉
+
+
+[07/24/2022 2:15 AM] cloudellie
+Hi all — heads up that we are gonna push the start date/time back one day. Just need a little extra time to get the repo ship-shape! Thanks for your patience. (Note we haven’t yet updated the dates on the website, etc.)
+
+{Reactions}
+👍 (24) 😭 (2) 
+
+[07/25/2022 5:21 AM] 0xRobocop#3994
+Is the contest starting on the 27th then?
+
+
+[07/25/2022 6:09 AM] rotcivegaf
+We need codeblood!!!
+
+
+[07/25/2022 6:10 AM] 100proof
+https://giphy.com/gifs/wolves-dCpsXSN2tJMfS
+
+{Embed}
+https://giphy.com/gifs/wolves-dCpsXSN2tJMfS
+Code4rena - ARCHIVE-Q3-2022 - golom-july26 [1000079019129184286].txt_Files/giphy_s-0E7BA.gif
+
+{Reactions}
+🐺 (7) 
+
+[07/25/2022 6:31 AM] 0x1f8b
+It could be 7 days contest instead of 6? 🙃
+
+{Reactions}
+👆 (3) 💯 
+
+[07/25/2022 8:28 AM] CRYP70#8985
+The anticipation is real haha
+
+{Reactions}
+😂 
+
+[07/26/2022 10:05 AM] supernovahs
+Hiiii
+
+
+[07/26/2022 5:56 PM] Franfran#5067
+golom golom
+
+{Reactions}
+💍 💎 
+
+[07/26/2022 6:53 PM] 0xmatt#3768
+Hopefully this will be my first contest gl all
+
+{Reactions}
+🔥 (2) 
+
+[07/26/2022 7:11 PM] tofunmi
+250 wardens on this one
+
+
+[07/26/2022 7:17 PM] bulej93
+where did u get that number from?
+
+
+[07/26/2022 7:32 PM] tofunmi
+Lmao , It is a joke yeah
+
+
+[07/26/2022 7:33 PM] tofunmi
+wagmi
+
+
+[07/26/2022 8:01 PM] anonnp
+LFG
+
+
+[07/26/2022 8:02 PM] chainNue#2511
+WAGMI
+
+
+[07/26/2022 8:03 PM] JohnSmith#1623
+Let the hunt begin!
+
+
+[07/26/2022 8:03 PM] JohnSmith#1623
+https://tenor.com/view/warwick-lol-gaming-wolf-evil-wolf-gif-17285899
+
+{Embed}
+https://tenor.com/view/warwick-lol-gaming-wolf-evil-wolf-gif-17285899
+Code4rena - ARCHIVE-Q3-2022 - golom-july26 [1000079019129184286].txt_Files/warwick-lol-EEAE4.png
+
+{Reactions}
+badgerchad (5) 
+
+[07/26/2022 8:15 PM] supernovahs
+O no hardhat 🥲
+
+{Reactions}
+❤️ 
+
+[07/26/2022 8:15 PM] supernovahs
+Best of luck
+
+
+[07/26/2022 8:20 PM] tofunmi
+Foundry is much fun
+
+
+[07/26/2022 8:20 PM] tofunmi
+It is what it is
+
+
+[07/26/2022 8:40 PM] Franfran#5067
+What means "mgmtm" sers ?
+
+
+[07/26/2022 8:41 PM] 0xmatt#3768
+It means ngmi
+
+
+[07/26/2022 8:48 PM] Franfran#5067
+Shit
+
+
+[07/26/2022 8:48 PM] Franfran#5067
+Need to find more H
+
+
+[07/26/2022 8:50 PM] pedr02b2
+i just wondered after reading through the project , as this project has already had an audit from another platform are there any new contracts that have not been audtied yet, literally only asking as ive noticed the project has had an audit else where already
+
+{Reactions}
+👍 (3) 
+
+[07/26/2022 8:50 PM] pedr02b2
+the report is a good read too
+
+
+[07/26/2022 8:52 PM] Franfran#5067
+Where is it please?
+
+
+[07/26/2022 8:53 PM] pedr02b2
+am i allowed to share it in here
+
+
+[07/26/2022 8:53 PM] pedr02b2
+i can DM you Franfran with the link
+
+{Reactions}
+🚀 (2) 
+
+[07/26/2022 8:53 PM] Franfran#5067
+Would be nice thanks!
+
+
+[07/26/2022 8:54 PM] pedr02b2
+my pleasure i think that did it ....yep haha 🙂
+
+{Reactions}
+👍 
+
+[07/26/2022 8:55 PM] rustyrabbit
+the previous audit is in the contest description. Or are you referring to another one ?
+
+
+[07/26/2022 8:58 PM] vyorkin
+Here is the diff https://github.com/golom-protocol/contracts/compare/17c77d13d386b33d6012a8ae9e1bc4788f8a3ed5...main (I took the commit hash from the "scope" section of the golom_audit1_updated.pdf)
+
+{Reactions}
+thankyou (4) 
+
+[07/26/2022 9:07 PM] pedr02b2
+yea i worked that out after i asked but i didnt wanna look a div and delete my comment hahahaa
+
+
+[07/26/2022 9:42 PM] tofunmi
+Christ
+
+
+[07/27/2022 5:42 AM] AuditsAreUS#8939
+`RewardDistributor` start time is before the audit ends 😳 `startTime = 1659211200;`  => 30/7/22 and the contest ends 1/8/22
+
+{Reactions}
+👍 
+
+[07/27/2022 6:42 AM] stermi
+@Saruman Hi there, is there a specific reason why there's a timelock for the `executeSetMinter`? As far as I get the minter will always be a `RewardDistributor` ? or am I missing something?
+
+
+[07/27/2022 7:02 AM] supernovahs
+Can anyone give a brief flow steps in the front end of golom
+
+
+[07/27/2022 7:02 AM] supernovahs
+Just to understand
+
+{Reactions}
+❤️ 
+
+[07/27/2022 7:06 AM] Saruman#3899
+yea stuff got delayed we will extend this by ~ a week
+
+
+[07/27/2022 7:06 AM] supernovahs
+How does the seller approve the receiver?
+
+
+[07/27/2022 7:09 AM] Saruman#3899
+timelock so we cant simply change the minter whenever we want and mint more tokens to dump on unsuspecting people. And the function is needed because we might want to change the reward distributor logic sometime in the future through governance.
+
+{Reactions}
+👍 (3) 
+
+[07/27/2022 7:10 AM] Saruman#3899
+receiver is just the guy who receives the nft similar to how uniswap does a swap and allow another address to be the receiver of tokens instead of msg.sender. this is useful to save on gas while using aggregators like gem/genie this will allow them to buy in 1 transfer call rather then two.
+
+{Reactions}
+👍 (2) 
+
+[07/27/2022 7:15 AM] Junnon#3182
+@Saruman may i ask you something via DM?
+
+
+[07/27/2022 7:22 AM] Saruman#3899
+yes
+
+
+[07/27/2022 8:53 AM] kankodu
+hey erveryone,
+This is my first contest. Is there any way to see the findings that I have reported?
+
+
+[07/27/2022 9:32 AM] kenzoagada
+You will get an email with each finding you submit.
+(note that these general questions might belong better in #🐺wardens  or #❓questions )
+
+
+[07/27/2022 9:41 AM] kankodu
+Will keep in mind
+Thank you!
+
+{Reactions}
+🥂 
+
+[07/27/2022 2:18 PM] benbaessler
+What is the total supply of the GolemToken?
+
+
+[07/27/2022 2:30 PM] bulej93
+1 billion
+
+
+[07/27/2022 2:33 PM] benbaessler
+is the supply set somewhere in the contracts? After reading through `GolemToken.sol` it seems like the minter could mint however many tokens they want.. @Saruman
+
+{Reactions}
+👍 👀 (4) 
+
+[07/27/2022 2:37 PM] JohnSmith#1623
+https://tenor.com/view/puppet-awkward-looking-what-side-eye-gif-15476992
+
+{Embed}
+https://tenor.com/view/puppet-awkward-looking-what-side-eye-gif-15476992
+Code4rena - ARCHIVE-Q3-2022 - golom-july26 [1000079019129184286].txt_Files/puppet-awkward-C94C3.png
+
+{Reactions}
+😂 
+
+[07/27/2022 2:48 PM] carlitox477
+in line 217 from the *GolemTrader.sol*, what does "mgmtm" means? 
+```solidity 
+require(msg.value >= o.totalAmt * amount + p.paymentAmt, 'mgmtm');
+```
+
+
+[07/27/2022 2:51 PM] bulej93
+check out line 8 and 9
+
+
+[07/27/2022 2:55 PM] benbaessler
+I missed that thanks
+
+{Reactions}
+👍 
+
+[07/27/2022 3:29 PM] ak19966
+@Saruman  can I DM you ?
+
+
+[07/27/2022 3:41 PM] Saruman#3899
+Yes but the minter is reward distributor which limits how much can be minted
+
+{Reactions}
+👍 (3) 
+
+[07/27/2022 3:49 PM] Saruman#3899
+No hidden meaning just random string
+
+{Reactions}
+🤣 (3) 
+
+[07/27/2022 4:57 PM] Franfran#5067
+It means ngmi
+
+
+[07/27/2022 11:36 PM] pedr02b2
+so would i be right in thinking that this project basically has a life span of 4 years, because in 5 years the vote weights will be broken, and if so doesnt that limit the project somewhat
+
+{Reactions}
+👍 
+
+[07/28/2022 12:15 AM] horsefacts
+👋 I notice the tests in `VoteEscrowDelegation.specs.ts` are missing. Any chance these exist and you forgot to include them, or are there no tests for this contract? They would be useful if they exist.
+
+{Reactions}
+☝️ (2) 
+
+[07/28/2022 1:04 AM] CRYP70#8985
+Second this
+
+{Reactions}
+🥈 (2) 🙃 
+
+[07/28/2022 1:13 AM] tofunmi
+💯
+
+
+[07/28/2022 5:47 AM] ak19966
+Hi . Is anyone know the sponsors time region ?
+
+
+[07/28/2022 6:47 AM] carlitox477
+Hi! for the gas optimisation pot, only the function in the gas report are in the scope or every function in the contract in scope?
+
+
+[07/28/2022 6:50 AM] illilli000
+every function from in-scope contracts. The gas report only shows public/external calls that are in tests
+
+{Reactions}
+thankyou (2) 
+
+[07/28/2022 6:59 AM] 0xpathfindr
+Does anyone know how to deal with this issue when running slither ```Error: Source "@openzeppelin/contracts/access/Ownable.sol" not found: File not found.```
+
+
+[07/28/2022 7:03 AM] illilli000
+did you run `yarn install` from the readme?
+
+
+[07/28/2022 7:03 AM] 0xpathfindr
+Yes sir
+
+
+[07/28/2022 7:04 AM] illilli000
+hmm, not sure - doesn't have any issues for me
+
+
+[07/28/2022 7:04 AM] 0xpathfindr
+When runinng slither?
+
+
+[07/28/2022 7:04 AM] illilli000
+correct. what version are you using?
+
+
+[07/28/2022 7:04 AM] 0xpathfindr
+Of slither ?
+
+
+[07/28/2022 7:05 AM] illilli000
+yes
+
+
+[07/28/2022 7:05 AM] 0xpathfindr
+0.8.3
+
+
+[07/28/2022 7:06 AM] illilli000
+same here - strange. maybe try re-cloning and try again?
+
+
+[07/28/2022 7:06 AM] 0xpathfindr
+Will do
+
+
+[07/28/2022 7:10 AM] 0xpathfindr
+@IllIllI That worked, thanks
+
+{Reactions}
+👍 
+
+[07/28/2022 7:17 AM] elku.cryptos
+Does someone know how to get gas used for a particular transaction in the code. For example below:
+```
+await golomTrader.connect(taker).fillAsk(
+                order,
+                1,
+                '0x0000000000000000000000000000000000000000',
+                {
+                    paymentAmt: prePaymentAmt,
+                    paymentAddress: await governance.getAddress(),
+                },
+                receiver,
+                {
+                    value: utils.parseEther('10.25'),
+                }
+            );
+```
+
+
+[07/28/2022 7:17 AM] 0xpathfindr
+My first guess would be to use the console and try and run the function
+
+
+[07/28/2022 7:18 AM] 0xpathfindr
+The console should return transaction info (including gas)
+
+
+[07/28/2022 7:18 AM] elku.cryptos
+No, I want this in the typescript test code.
+
+{Reactions}
+👍 
+
+[07/28/2022 7:19 AM] Saruman#3899
+These test dont exist however if you check the golom repo github History you can find some scripts to test it but they are outdated and might need to be changed a lot
+
+{Reactions}
+👍 
+
+[07/28/2022 7:21 AM] Saruman#3899
+Estimategas function can be used to see the gas used
+
+{Reactions}
+👍 
+
+[07/28/2022 8:45 AM] CRYP70#8985
+Hey all - any devs in the house to answer questions by any chance?
+
+
+[07/28/2022 8:52 AM] Saruman#3899
+hi you can ask me
+
+
+[07/28/2022 9:06 AM] 8olidity#8520
+?
+
+{Attachments}
+Code4rena - ARCHIVE-Q3-2022 - golom-july26 [1000079019129184286].txt_Files/unknown-56B5F.png
+
+
+[07/28/2022 9:11 AM] CRYP70#8985
+Sent you a PM 🙂
+
+
+[07/28/2022 9:12 AM] devabdee
+Is the function, `async`? If it is, then try putting `await` before that line.....
+
+
+[07/28/2022 9:16 AM] 8olidity#8520
+https://github.com/code-423n4/2022-07-golom/blob/main/scripts/criteriatest.js
+
+{Embed}
+https://github.com/code-423n4/2022-07-golom/blob/main/scripts/criteriatest.js
+2022-07-golom/criteriatest.js at main · code-423n4/2022-07-golom
+Contribute to code-423n4/2022-07-golom development by creating an account on GitHub.
+Code4rena - ARCHIVE-Q3-2022 - golom-july26 [1000079019129184286].txt_Files/e90a7c28-ddcc-4e60-8ecb-15b2da2b0933-DDCE0
+
+
+[07/28/2022 9:17 AM] 8olidity#8520
+The library seems wrong, but I'm not very familiar with hardhat
+
+
+[07/28/2022 9:22 AM] 0xa5df
+You can log to console the `gasUsed` and it'll output in the test:
+```
+const tx = await golomTrader.connect(taker).fillAsk(
+                order,
+                1,
+                '0x0000000000000000000000000000000000000000',
+                {
+                    paymentAmt: prePaymentAmt,
+                    paymentAddress: await governance.getAddress(),
+                },
+                receiver,
+                {
+                    value: utils.parseEther('10.25'),
+                }
+            );
+const receipt = await (await tx).wait();
+console.log(`gas used: ${receipt.gasUsed}`);
+```
+
+You can also extract that single test to a different file and then run `npx hardhat test test/myscript.ts`, that will include other txs in the same test though
+
+{Reactions}
+nice (4) 
+
+[07/28/2022 9:26 AM] elku.cryptos
+thanks.. I also saw this in their js scripts. for example in `tradertest.js`:
+
+```
+    d = await trader.connect(addr2).fillAsk(order, 1, null_address, [postPay, '0x6067D233D5eA619d464a218eAf9921B9343e4d16'], {
+        value: totoamt + postPay
+    });
+    receipt = await d.wait();
+    console.log(receipt.cumulativeGasUsed, await funnel.balanceOf(addr1.address));
+```
+
+
+[07/28/2022 9:26 AM] 8olidity#8520
+@0xA5DF  do you know how to solve this
+
+
+[07/28/2022 9:31 AM] elku.cryptos
+I am wondering why there are test files in `scripts` and then in `test`. What is the difference?
+
+
+[07/28/2022 9:32 AM] 0xa5df
+I think `gasUsed` is the right one, even though in this case (where there's only one tx per block) they're the same
+https://ethereum.stackexchange.com/a/40174
+
+{Reactions}
+thankyou 
+
+[07/28/2022 9:34 AM] 0xa5df
+It says that `hre.web3` is undefined, try use `hre.ethers` instead or debug it to find the right syntax
+
+
+[07/28/2022 9:39 AM] 8olidity#8520
+https://web3js.readthedocs.io/en/v1.7.4/web3-eth-abi.html?highlight=encodeParameter#encodeparameter
+
+
+[07/28/2022 9:39 AM] 8olidity#8520
+this is web3 library
+
+
+[07/28/2022 9:43 AM] 8olidity#8520
+
+
+{Attachments}
+Code4rena - ARCHIVE-Q3-2022 - golom-july26 [1000079019129184286].txt_Files/unknown-4989F.png
+
+
+[07/28/2022 9:43 AM] 8olidity#8520
+That works
+
+{Reactions}
+👌 
+
+[07/28/2022 9:46 AM] 8olidity#8520
+new bug ,  no funnel contract
+
+{Attachments}
+Code4rena - ARCHIVE-Q3-2022 - golom-july26 [1000079019129184286].txt_Files/unknown-024D5.png
+
+
+[07/28/2022 9:49 AM] Saruman#3899
+scripts folder basically has scripts that were used for testing some functionalities they may be outdated and not work anymore
+
+{Reactions}
+👍 
+
+[07/28/2022 9:58 AM] carlitox477
+Someone here understand what exactly Point struct indicates? What does bias, slope and ts indicate?
+
+
+[07/28/2022 10:03 AM] ak19966
+For sponsors, It could be helpful to clarify for wardens querie on some functionality of functions.
+
+
+[07/28/2022 10:04 AM] ak19966
+As a warden, i would like to get opinion on  some of functionality in order to classify it as issue or not
+
+
+[07/28/2022 10:04 AM] ak19966
+I can understand that being a single sponsor and responding to more than 100 wardens could be tough one
+
+
+[07/28/2022 10:05 AM] ak19966
+Seeking clarity on findings and then reporting could reduce the junk reports i feel
+
+
+[07/28/2022 10:06 AM] elku.cryptos
+I think he is just overwhelmed by so many questions. Just ask here if it's NOT related to `findings`.
+
+
+[07/28/2022 10:06 AM] ak19966
+We should not discuss about the actual issue in public.. that's the rule i belive
+
+
+[07/28/2022 10:07 AM] ak19966
+@Saruman .. really yours is challenging task...
+
+{Reactions}
+💯 (4) 
+
+[07/28/2022 12:46 PM] horsefacts
+Thanks, Saruman!
+
+
+[07/28/2022 12:54 PM] Saruman#3899
+I am already responding to everybody who msges me
+
+
+[07/28/2022 12:59 PM] supernovahs
+This is for future airdrop?
+
+{Attachments}
+Code4rena - ARCHIVE-Q3-2022 - golom-july26 [1000079019129184286].txt_Files/Screenshot_from_2022-07-28_18-28-54-9D4F8.png
+
+
+[07/28/2022 4:26 PM] scaraven
+Hi, can anyone explain the calculations behind `_checkpoint()` in VoteEscrowCore.sol?
+
+{Reactions}
+👆 (2) goose (2) 
+
+[07/28/2022 5:00 PM] rustyrabbit
+Is VoteEscrowCore.sol  forked from Curve ? 
+`@author Curve Finance`
+But aren't Curve contracts written in Vyper ?
+So rewritten or from an older version maybe ?
+
+
+[07/28/2022 5:15 PM] rustyrabbit
+nvm didn't read the end of the contest description
+
+
+[07/28/2022 5:49 PM] Saruman#3899
+Yes happening soon
+
+
+[07/28/2022 6:53 PM] acegawd
+@Saruman dm.
+
+
+[07/28/2022 8:25 PM] Deleted User
+how???
+
+
+[07/28/2022 8:26 PM] Deleted User
+how do you clone all the files???
+
+
+[07/28/2022 8:38 PM] Deleted User
+i got the same error and tried everything - didnt work
+
+
+[07/28/2022 8:42 PM] Deleted User
+the second i ran yarn install shitty terminal froze for 10+min
+
+
+[07/28/2022 8:43 PM] Deleted User
+still frozen
+
+
+[07/28/2022 8:47 PM] Deleted User
+on building fresh packages
+
+
+[07/28/2022 8:49 PM] tofunmi
+Reboot,  re clone and re run 👌 👌
+
+
+[07/28/2022 8:50 PM] Deleted User
+terminal now frozen i tried to install yarn
+
+
+[07/28/2022 8:50 PM] Deleted User
+have been waiting for like 15+min now
+
+
+[07/28/2022 8:50 PM] Deleted User
+is thta normal
+
+
+[07/28/2022 8:50 PM] Deleted User
+?
+
+
+[07/28/2022 8:51 PM] tofunmi
+Reboot,  It is your laptop's problem
+
+
+[07/28/2022 8:52 PM] Deleted User
+i did that though
+
+
+[07/28/2022 8:52 PM] carlitox477
+In the VoteEscrowCore, what is it attachments mapping for?
+
+
+[07/28/2022 9:05 PM] 0xa5df
+I'm on Ubuntu and also had trouble with `yarn`, I've removed the distro's and installed  `yarn` with npm (`npm i -g yarn`) and now it works fine
+
+
+[07/28/2022 9:12 PM] illilli000
+`git clone https://github.com/code-423n4/2022-07-golom.git`
+
+
+[07/28/2022 9:30 PM] Deleted User
+ight bet
+
+
+[07/28/2022 9:32 PM] Deleted User
+ParserError: Source "@openzeppelin/contracts/access/Ownable.sol" not found: File not found. Searched the following locations: "".
+  --> /contracts/GolomToken.sol:11:1:
+   |
+11 | import '@openzeppelin/contracts/access/Ownable.sol';
+
+
+[07/28/2022 9:32 PM] Deleted User
+did legit everything
+
+
+[07/28/2022 9:35 PM] illilli000
+if you ran `yarn install` and there were no errors, and you tried what 0xA5DF said about re-installing yarn, not sure what else to try
+
+
+[07/28/2022 9:48 PM] Deleted User
+what do i do once i compile hardhat
+
+
+[07/28/2022 9:48 PM] Deleted User
+make a new js or what
+
+
+[07/28/2022 9:48 PM] Deleted User
+and do i add a git ignore???
+
+
+[07/28/2022 10:06 PM] Deleted User
+----------------------------
+
+
+[07/28/2022 10:06 PM] Deleted User
+does anybody know how to run slither and/or mythril on these contracts in ubuntu?
+
+
+[07/28/2022 10:07 PM] Deleted User
+i tried the normal way
+
+
+[07/28/2022 10:07 PM] Deleted User
+and nothing happened
+
+
+[07/28/2022 10:21 PM] Deleted User
+cfatal: could not create work tree dir '2022-07-golom': No such file or directory
+
+
+[07/28/2022 10:21 PM] Deleted User
+??????
+
+
+[07/28/2022 10:21 PM] Deleted User
+pls help
+
+
+[07/28/2022 10:51 PM] illilli000
+is there a specific reason you need to compile? Can't you just review the files as they are on github? that's what I usually do
+
+{Reactions}
+😂 (8) 🔆 (4) 
+
+[07/28/2022 11:30 PM] Limbooo#3710
+Sometimes we need to remaps files imported in solidity for solc. Since they don’t appear in the same file url. For Slither; save a new config file in the root project directory as `slither.config.json`. Add these configurations
+```
+{
+  "filter_paths": "node_modules",
+  "solc_remaps": [
+    "@openzeppelin/contracts/=node_modules/@openzeppelin/contracts/"
+  ]
+}
+```
+
+
+[07/29/2022 12:40 AM] __141345__
+@Saruman is there testnet?
+
+
+[07/29/2022 2:10 AM] elku.cryptos
+Is the `VoteEscrowDelegation.specs.ts` supposed to be empty? 😇
+
+
+[07/29/2022 6:13 AM] Junnon#3182
+wait, can we make a PoC without compiling?
+
+
+[07/29/2022 6:15 AM] 100proof
+Yes, there is no requirement that PoCs be executable. However, executable PoCs are the highest standard PoC that can be contributed. There's a cost/benefit calculation that needs to be done when considering whether to do one or not.
+
+{Reactions}
+👍 
+
+[07/29/2022 7:56 AM] elku.cryptos
+Which function does the user call to lock their GOLOM tokens?
+
+
+[07/29/2022 8:34 AM] Saruman#3899
+create_lock
+
+{Reactions}
+thankyou 
+
+[07/29/2022 1:41 PM] rustyrabbit
+What's the idea behind the extra payment provided in the GolomTrader.sol#fillAsk() ? Who would this typically go to ?
+
+
+[07/29/2022 4:04 PM] acegawd
+DMed you @Saruman
+
+
+[07/29/2022 5:34 PM] benbaessler
+This might be a dumb question, but why is `RewardDistributor.sol` depositing the previous epoch's fees into the WETH contract in `addFee()`? What does this do? https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/rewards/RewardDistributor.sol#L127
+
+{Embed}
+https://github.com/code-423n4/2022-07-golom/blob/7bbb55fca61e6bae29e57133c1e45806cbb17aa4/contracts/rewards/RewardDistributor.sol
+2022-07-golom/RewardDistributor.sol at 7bbb55fca61e6bae29e57133c1e4...
+Contribute to code-423n4/2022-07-golom development by creating an account on GitHub.
+Code4rena - ARCHIVE-Q3-2022 - golom-july26 [1000079019129184286].txt_Files/e90a7c28-ddcc-4e60-8ecb-15b2da2b0933-DDCE0
+
+
+[07/29/2022 5:41 PM] Franfran#5067
+That's only in the case of the first epoch
+
+
+[07/29/2022 5:41 PM] Franfran#5067
+It's valid to use the contract balance because only one epoch ended
+
+
+[07/29/2022 5:58 PM] benbaessler
+@Saruman can I dm you?
+
+
+[07/29/2022 6:29 PM] carlitox477
+Is it necessary to do a the poc or just a description is fine?
+
+
+[07/30/2022 1:36 AM] carlitox477
+Does this means that if I found a bug but I don't do a test showing it and the bug is valid the submit will be accepted?
+
+
+[07/30/2022 1:37 AM] __141345__
+Can not find a function to place an order? How is the order book put on chain?
+
+
+[07/30/2022 2:00 AM] 100proof
+It doesn't work that way. The orders are created off-chain and signed. The user that fills the orders provides the order data structure. This is safe because the order is signed and any manipulation will break the validation of the signature.
+
+
+[07/30/2022 2:10 AM] rokinot
+just to add here, the order hashes are implicitly stored in the `filled` mapping
+
+
+[07/30/2022 2:27 AM] carlitox477
+Can some answer me please? It is my first contest and English isn't my native language, so I find it difficult to precise idea
+
+
+[07/30/2022 2:32 AM] elku.cryptos
+If the explanation is lacking, a high risk bug might get reduced its severity level to medium or even Q/A. so if you can write a testing code, do it and no one can argue with you. If not, explain it well at least. Just keep in mind that, the judge need to have an easy time reading through and understanding your explanation or thought flow.
+
+
+[07/30/2022 3:35 AM] carlitox477
+Thank you!
+
+
+[07/30/2022 5:26 AM] carlitox477
+When I add a submit, the **Links to affected code** should be only the code which is meant to be fixed or all the code involved. For instance, let said that function **A()** uses function **B()** and given that **C()** is somehow affected by **A**, should I link just **A** as affected code or **A**, **B** and **C**? (take into account that if I correct **A** I won't need to touch **B** and **C**)
+
+
+[07/30/2022 7:30 AM] supernovahs
+@Saruman  dmed
+
+
+[07/30/2022 8:21 AM] bernd_42
+This kind of general questions are best asked in the #🐺wardens channel 😉
+
+{Reactions}
+👆 (2) 
+
+[07/30/2022 12:13 PM] oridabush
+@Saruman Sent you a dm, please answer
+
+
+[07/30/2022 12:54 PM] cryptphi
+@NightHawk can I DM? anyone I can DM for a clarification?
+
+
+[07/30/2022 1:08 PM] cryptphi
+nevermind , i see @100proof already clarified here ...thanks
+
+
+[07/30/2022 4:46 PM] dannygfromnyc
+@Saruman Sent a DM.
+
+
+[07/30/2022 8:48 PM] carlitox477
+@Saruman can I DM you?
+
+
+[07/30/2022 8:49 PM] carlitox477
+I sent you a friend request
+
+
+[07/31/2022 8:37 AM] oridabush
+can someone from the team DM me please?
+
+
+[08/01/2022 9:09 AM] rustyrabbit
+@Saruman friend request sent, need to send a DM.
+
+
+[08/01/2022 9:32 AM] 100proof
+Anyone here worked out how voting is supposed to work?
+
+
+[08/01/2022 9:46 AM] 0xmatt#3768
+is anyone else getting reversions with panic code 0x12 (Division or modulo division by zero) on some tests? If so, have you found a way to get around it?
+
+
+[08/01/2022 10:10 AM] soosh4618
+Thats likely due to golomToken totalSupply being zero and used as denominator in addFees(). I just added code to mint golomToken before the tests
+
+{Reactions}
+❤️ (2) 
+
+[08/01/2022 10:42 AM] elku.cryptos
+yes.. thats because the starttime is aug 1. and we passed that time stamp..  make the starttime like this: `startTime = 1659211200+3 days;`
+
+
+[08/01/2022 11:33 AM] 0xmatt#3768
+That was it, thanks!
+
+
+[08/01/2022 11:49 AM] minh___
+i think voting itself is not  contained in this repo. to me it looks like The VotingEscrow contracts are only to manage voting power
+
+
+[08/01/2022 2:41 PM] ikhlas1
+If a trader delays claiming rewards tokens do they get additional tokens / rewards (compounding)?
+
+
+[08/01/2022 2:56 PM] elku.cryptos
+no, as far as i know.
+
+{Reactions}
+👍 (2) 
+
+[08/01/2022 8:02 PM] C4
+**🚨 CONTEST ALERT**
+
+@🐺wardens The **Golom** contest is now closed! Huge thanks to everyone who participated 🔍, whether you submitted a finding or not.
+
+What's next: the **Golom** team will review the findings over the next couple of days, and then we'll pass them off to the judge. Keep an eye on #📢announcements for regular updates on how the contest is progressing through awarding 🤑🏆, judging 🧑‍⚖️ and reporting 📜. Feel free to ping a gardener if you have questions along the way!
+
+{Reactions}
+cyberheart (16) 👍 (2) 
+
+[08/01/2022 8:09 PM] rokinot
+gud contest
+
+
+[08/01/2022 9:06 PM] devabdee
+It was my first contest. 2 Gas findings and 1 QA finding (Alhumdulilah) 😍
+
+{Reactions}
+👏 (7) 
+
+[08/01/2022 9:06 PM] devabdee
+pretty enjoyed it & learned so much 🤩
+
+
+[08/01/2022 9:20 PM] thank_you_
+Hi,
+
+Can I speak to an admin (DM preferred) about late submissions. Thank you.
+
+
+[08/01/2022 9:31 PM] kartoonjoy
+you can DM me now
+
+
+[08/01/2022 9:33 PM] CRYP70#8985
+Thanks to the devs and staff! 😁
+
+{Reactions}
+hi5 (2) 
+
+[08/01/2022 11:46 PM] carlitox477
+Did anyone here find a high risk issue?  I'm just curious
+
+
+[08/01/2022 11:46 PM] carlitox477
+I was my first contest :D
+
+
+[08/01/2022 11:47 PM] 100proof
+Yes, some people thought they found High Risk issues. Can't really say more than that.
+
+{Reactions}
+😅 (10) 👁️ 
+
+[08/01/2022 11:47 PM] 100proof
+(I wasn't one of them, but I thought I found a ton of mediums)
+
+
+[08/01/2022 11:48 PM] carlitox477
+I found some mediums too :D
+
+
+[08/01/2022 11:48 PM] carlitox477
+And like 6 little gas savings opportunities
+
+
+[08/01/2022 11:57 PM] Franfran#5067
+I think that I did
+
+
+[08/01/2022 11:57 PM] Franfran#5067
+Maybe too obvious? Idk
+
+
+[08/02/2022 12:59 AM] chomtana
+Some people may find high but actually it isn't high too (got downgraded or rejected).
+
+{Reactions}
+👍 (2) 
+
+[08/02/2022 12:59 AM] 100proof
+There almost certainly _are_ real Highs in the contest though.
+
+
+[08/02/2022 1:00 AM] jayphbee
+In which part of the code ?
+
+
+[08/02/2022 1:06 AM] 100proof
+I don't know. I didn't find any Highs.
+
+
+[08/02/2022 1:06 AM] 100proof
+And I wouldn't be able to talk about it even if I did.
+
+
+[08/02/2022 1:07 AM] 100proof
+I sympathise with you @jayphbee. You'll have to wait until the report to see what you missed.
+
+{Reactions}
+💯 (2) 
+
+[08/02/2022 1:10 AM] alextheentreprenerd
+Please do not disclose vulnerabilities before the report is published
+
+{Reactions}
+💯 (12) 
+
+[08/02/2022 4:52 AM] jayphbee
+oh, i see. Sorry
+
+
+[08/02/2022 6:40 AM] CRYP70#8985
+Eagerly awaiting the report
+
+
+[08/02/2022 6:48 AM] codingnamekiki
+me too, so l can hopefully have enough to buy a slice of pizza with my award
+
+
+[08/02/2022 6:55 AM] CRYP70#8985
+The taste of victory my friend…the taste of victory
+
+{Reactions}
+chefskiss 
+
+[08/02/2022 8:09 AM] svskaushik
+Wait, can we submit multiple gas reports @100proof ?
+
+
+[08/02/2022 8:09 AM] dravee
+Don't do that! It will invalidate all your reports 😅 .
+Submit 1 report with all findings
+
+
+[08/02/2022 8:11 AM] svskaushik
+Aah, yeah that's what I thought. Just got a little curious at the mention of multiple findings, submitting all in one report makes sense
+Thanks for clarifying
+
+
+[08/02/2022 8:28 AM] 100proof
+*NO!!!*
+
+
+[08/02/2022 8:28 AM] codingnamekiki
+That reminds me of someone who submitted more than 20 gas reports individually for his first contest
+
+{Reactions}
+👀 😅 (3) 
+
+[08/02/2022 8:29 AM] codingnamekiki
+🥲
+
+
+[08/02/2022 9:27 AM] 0xmatt#3768
+I think I did but I'm not experienced enough to defend a submission yet.
+
+
+[08/02/2022 3:17 PM] carlitox477
+Me neither, it is my first contest
+
+
+[08/02/2022 3:18 PM] carlitox477
+I did one gas report and I divide each of the finding in their own section
+
+{Reactions}
+👍 
+
+[08/02/2022 3:39 PM] 100proof
+That's the correct way to do things. 
+
+carlitox477, this is for others to see: **Do not submit multiple gas reports. Create one big report with all of the gas findings**
+
+{Reactions}
+thankyou (10) 
+
+[08/31/2022 12:28 AM] carlitox477
+Any news about this contest? It was my first one I'm a little anxious about the results xD
+
+{Reactions}
+💯 
+
+[08/31/2022 1:00 AM] rokinot
+I think this one will take longer than usual... https://twitter.com/scott_lew_is/status/1554815796903395329
+
+{Embed}
+s⋐ott (@scott_lew_is)
+https://twitter.com/scott_lew_is/status/1554815796903395329
+our last contest had 948 bug submissions. ive actually had trouble sleeping because it is a massive scaling problem for the org and we have to figure out how to fix it. but good for smart contract safety.
+Twitter
+
+{Reactions}
+🤣 (2) 
+
+[08/31/2022 1:20 AM] JohnSmith#1623
+so till Christmas then 🎄
+
+
+[08/31/2022 3:00 AM] carlitox477
+Wow! That's a lot
+
+
+[08/31/2022 3:00 AM] carlitox477
+Thanks in advance to judges for the effort
+
+{Reactions}
+👍 (2) 
+
+[08/31/2022 7:50 AM] jayphbee
+crazy, 948 bug submissions
+
+
+[08/31/2022 8:19 AM] rohan16
+I++ has a craze 😆😆948bugs came from that
+
+{Reactions}
+😆 (2) 
+
+[08/31/2022 11:40 PM] CRYP70#8985
+Jezzz that is a massive amount of submissions - could be here a while 😅
+
+
+[08/31/2022 11:46 PM] JohnSmith#1623
+I hope they asked for help and someone is helping them
+
+{Reactions}
+💯 
+
+[09/10/2022 2:06 AM] carlitox477
+
+
+{Attachments}
+Code4rena - ARCHIVE-Q3-2022 - golom-july26 [1000079019129184286].txt_Files/image0-E3995.gif
+
+
+[09/10/2022 2:07 AM] carlitox477
+Any advance?
+
+{Reactions}
+☝️ (3) 
+
+[09/10/2022 2:40 AM] CRYP70#8985
+Second this, hope the triage is going okay 😅
+
+
+[09/10/2022 2:49 AM] JohnSmith#1623
+https://tenor.com/view/lord-of-the-rings-gandalf-indeed-gif-18505269
+
+{Embed}
+https://tenor.com/view/lord-of-the-rings-gandalf-indeed-gif-18505269
+Code4rena - ARCHIVE-Q3-2022 - golom-july26 [1000079019129184286].txt_Files/lord-of-the-rings-gandalf-013AD.png
+
+
+[09/17/2022 9:49 AM] jayphbee
+any update？
+
+{Reactions}
+☝️ (2) 
+
+[09/17/2022 12:57 PM] chainNue#2511
+I also wonder about this 948 submission entries, especially the detailed report. I hope it will be publicly available so we can learn alot from it
+
+
+[09/22/2022 12:04 AM] _luckypanda
+Any estimation when the review will be finished?
+
+{Reactions}
+☝️ (7) 
+
+[09/26/2022 1:35 PM] Ignacio#9604
+any update?
+
+{Reactions}
+☝️ (5) 
+
+[09/30/2022 2:48 PM] devabdee
+https://tenor.com/view/any-news-joey-freinds-stuck-stunned-gif-10837291
+
+{Embed}
+https://tenor.com/view/any-news-joey-freinds-stuck-stunned-gif-10837291
+Code4rena - ARCHIVE-Q3-2022 - golom-july26 [1000079019129184286].txt_Files/any-news-joey-573FE.png
+
+{Reactions}
+☝️ (3) 
+
+[10/04/2022 6:43 AM] chainNue#2511
+no one knows, because it's already passed code4rena's contest timeline
+https://docs.code4rena.com/structure/our-process
+
+{Embed}
+https://docs.code4rena.com/structure/our-process
+Contest timeline
+This is a high level overview of the C4 contest timeline. We have an increasingly detailed operational manual in Notion.
+
+
+[10/04/2022 9:01 AM] carlitox477
+There were like 1000 submits, ask again in December lol
+
+
+[10/11/2022 8:14 PM] carlitox477
+any news?
+
+{Reactions}
+👍 (5) 
+
+[10/12/2022 4:34 AM] carlitox477
+Any news today?
+
+{Reactions}
+☝️ (5) 
+
+[10/17/2022 1:38 PM] elku.cryptos
+Hello. Is the judge able to provide an approx ETA for this one please?
+
+{Reactions}
+👍 (2) ☝️ (3) 
+
+[10/27/2022 2:50 AM] _luckypanda
+If giving an ETA is hard, can you at least tell us the progress of the reviews?
+
+
+[10/27/2022 3:04 AM] jeiwan
+It's in post-judging QA, will probably take several more days.
+
+{Reactions}
+👍 (3) 
+
+[10/28/2022 4:01 AM] _luckypanda
+thank you!
+
+
+[11/02/2022 11:47 PM] road220
+more than 3 months)
+
+
+[11/03/2022 4:34 PM] carlitox477
+I want my i++ rewards LOL
+
+{Reactions}
+😂 (2) ☝️ 
+
+[11/05/2022 11:55 PM] road220
+this could be the last i++ reward 🙂
+
+{Reactions}
+😂 (7) 💯 (2) 
+
+[11/10/2022 6:47 PM] ikhlas1
+Judges! What is the status on this
+
+{Reactions}
+thisisfine (5) ⁉️ 
+
+[11/21/2022 7:03 PM] itsmetechjay
+🤑 🎉  Awards for **Golom**:
+
+$9,666.65 USDC » @Krow10 
+$9,423.59 USDC » @kankodu 
+$7,861.35 USDC » @0x52 
+$3,428.04 USDC » @scaraven 
+$3,168.07 USDC » @cccz 
+$2,951.64 USDC » @zhuXKET 
+$2,592.80 USDC » @0xsanson 
+$2,521.29 USDC » @kenzo 
+$2,198.78 USDC » GimelSec (@rayn | GimelSec, @sces60107 | GimelSec)
+$1,582.32 USDC » @IllIllI 
+$1,393.27 USDC » @Bernd 
+$1,317.33 USDC » @0xA5DF 
+$1,190.39 USDC » @Alex The Entreprenerd 
+$1,088.64 USDC » @kyteg 
+$1,041.15 USDC » @Bahurum 
+$766.67 USDC » @0xpiglet 
+$690.96 USDC » @arcoun 
+$676.85 USDC » @MEP 
+$569.74 USDC » @Rotcivegaf 
+$567.38 USDC » @Django | Saloon Finance 
+$554.21 USDC » @JohnSmith 
+$526.19 USDC » @zzzitron 
+$524.98 USDC » CertoraInc (@egjlmn1, @Ori Dabush, @shakedwinder, @RoiEvenHaim, @ItayG)
+$498.51 USDC » @ElKu 
+$483.43 USDC » @GiveMeTestEther 
+$469.74 USDC » @carlitox477 
+$457.14 USDC » @0x1f8b 
+$451.95 USDC » @Dravee 
+$426.58 USDC » @rbserver 
+$409.44 USDC » @TrungOre 
+$396.77 USDC » @joestakey 
+$396.33 USDC » kebabsec (@okkothejawa, @FlameHorizon)
+$382.10 USDC » @100proof 
+$373.55 USDC » @Roman 
+$362.48 USDC » @teddav 
+$342.78 USDC » @cryptphi 
+$325.18 USDC » @lucyoa 
+$302.93 USDC » @async 
+$297.28 USDC » @simon135 
+$291.35 USDC » @obront 
+$271.59 USDC » @0xNineDec 
+$271.04 USDC » @hyh 
+$262.43 USDC » @TomJ 
+$262.39 USDC » @Bnke 
+$262.38 USDC » @JC
+$262.38 USDC » @benbaessler
+$262.24 USDC » @Deivitto 
+$262.23 USDC » @Rolezn 
+$259.39 USDC » @hansfriese 
+$246.21 USDC » @Kaden 
+$246.06 USDC » @ak1
+$240.10 USDC » @panprog 
+$236.98 USDC » @RustyRabbit 
+$212.42 USDC » @minhquanym 
+$206.42 USDC » @shenwilly 
+$189.57 USDC » @DimitarDimitrov 
+$189.05 USDC » @0xNazgul 
+$188.90 USDC » @cRat1st0s 
+$188.26 USDC » @rokinot 
+$186.66 USDC » @djxploit 
+$186.56 USDC » @auditor0517 
+$186.43 USDC » @csanuragjain 
+$181.99 USDC » @rajatbeladiya 
+$181.06 USDC » @dannygfromnyc 
+$174.91 USDC » @codexploder 
+$174.91 USDC » @horsefacts 
+$171.06 USDC » @AuditsAreUS 
+$167.73 USDC » 0xf15ers (@remora0, @twojoy)
+$166.78 USDC » @Picodes | Angle 
+$159.74 USDC » @dipp 
+$149.77 USDC » @CRYP70 
+$143.85 USDC » @Treasure-Seeker 
+$139.18 USDC » @hatch 
+$131.76 USDC » @M0ndoHEHE 
+$130.02 USDC » @3xHarry 
+$130.02 USDC » @jayjonah8 
+$129.98 USDC » @thinklab 
+$129.98 USDC » @__141345__ 
+$129.83 USDC » @c3phas 
+$129.83 USDC » @Noam Yakov 
+$129.83 USDC » @ajtra 
+$129.83 USDC » @0xSmartContract 
+$129.83 USDC » @MiloTruck 
+$103.74 USDC » @Jmaxmanblue 
+$94.66 USDC » @gogo 
+$94.66 USDC » @code-cipher 
+$94.66 USDC » @m_Rassska
+
+{Reactions}
+C4Keycap (12) 4739_Skeletor (4) 
+
+[11/21/2022 7:03 PM] itsmetechjay
+$94.66 USDC » @Chinmay 
+$93.28 USDC » @Limbooo 
+$93.28 USDC » @wastewa 
+$82.57 USDC » @anon 
+$61.16 USDC » @Ruhum 
+$61.01 USDC » @jayphbee 
+$58.21 USDC » @Twpony 
+$56.64 USDC » @Kenshin 
+$56.64 USDC » @saian 
+$56.64 USDC » @_Adam 
+$56.64 USDC » @RedOneN 
+$56.64 USDC » @ellahi 
+$56.64 USDC » @brgltd 
+$56.64 USDC » @apostle0x01 
+$56.64 USDC » @Sm4rty 
+$56.49 USDC » @Sloth 
+$56.49 USDC » @StyxRave 
+$56.49 USDC » @sach1r0 
+$56.49 USDC » @maxime OOO 
+$56.49 USDC » @fatherOfBlocks 
+$56.49 USDC » @zuhaibmohd 
+$56.49 USDC » @robee 
+$56.49 USDC » mics
+$56.49 USDC » @Junnon 
+$56.49 USDC » @supernova 
+$56.49 USDC » @delfin454000 
+$56.49 USDC » @Funen 
+$56.49 USDC » @0xmatt 
+$56.49 USDC » @0xLovesleep 
+$56.49 USDC » @Rohan 
+$56.49 USDC » @jayfromthe13th 
+$56.49 USDC » @sashik_eth 
+$56.49 USDC » @lucacez 
+$39.84 USDC » @cryptonue 
+$39.84 USDC » @bin2chen 
+$39.68 USDC » @ych18 
+$35.32 USDC » @8olidity 
+$35.32 USDC » @++Jujic#5558 
+$35.32 USDC » @Chom 
+$35.32 USDC » @Kumpa 
+$35.32 USDC » @Waze 
+$35.32 USDC » @Ch_301 
+$35.17 USDC » @giovannidisiena 
+$35.17 USDC » @StErMi 
+$35.17 USDC » @indijanc 
+$35.17 USDC » cthulhu_cult @badbird(, seanamani)
+$35.17 USDC » 0xsolstars (@Varun_Verma, @masterchief)
+$35.17 USDC » @DevABDee 
+$35.17 USDC » @codetilda 
+$35.17 USDC » @Franfran 
+$35.17 USDC » @pedr02b2 
+$35.17 USDC » @jmstdy 
+$35.17 USDC » @PENGUN 
+$35.17 USDC » @saneryee 
+$35.17 USDC » @dirk_y 
+$35.17 USDC » @Soosh 
+$35.17 USDC » @idkwhatimdoing 
+$35.17 USDC » @Mr Unome 
+$35.17 USDC » @0xackerman 
+$35.17 USDC » @0xc0ffEE 
+$35.17 USDC » @Tadashi 
+$26.77 USDC » @neumo 
+$21.47 USDC » @EricTee 
+$21.32 USDC » @durianSausage 
+$21.32 USDC » @Noah3o6 
+$21.32 USDC » @ladboy233小伙子 
+$21.32 USDC » @samruna 
+$21.32 USDC » @0xsam 
+$21.32 USDC » @Migue 
+$21.32 USDC » @chandr 
+$21.32 USDC » @Tofunmi 
+$21.32 USDC » @Kaiziron 
+$21.32 USDC » @ReyAdmirado 
+$21.32 USDC » @Tomio 
+$21.32 USDC » @gerdusx 
+$21.32 USDC » @pfapostol 
+$21.32 USDC » @rfa
+$21.32 USDC » @CodingNameKiki 
+$21.32 USDC » @Randyyy 
+$21.32 USDC » @Fitraldys 
+$21.32 USDC » @0xKitsune 
+$4.67 USDC » @peritoflores 
+$0.16 USDC » @cloudjunky 
+$0.15 USDC » @Ikhlas 
+$0.15 USDC » @PaludoX0 
+
+🏁 Findings summary
+------------------------------
+High risk findings: 138 total, 11 unique
+Med risk findings: 199 total, 18 unique
+Gas optimization reports: 92 
+QA reports: 130
+
+Awards will be distributed on Polygon within the next 1-2 weeks.  Congratulations all!  💸 💸 💸
+
+*Note: If you participated in this contest and don’t see your name on this list, please wait until the report is published and the findings repo is made public to check on your submissions.*
+
+
+[11/21/2022 7:03 PM] road220
+great to see that!
+
+
+[11/21/2022 7:32 PM] carlitox477
+This was the first contest I took part. I'm glad I am above middle table 😄
+
+{Reactions}
+Clap (2) 
+
+[11/21/2022 7:44 PM] carlitox477
+Also my first high
+
+{Reactions}
+hi5 (4) 🎉 (3) 👏 
+
+[11/21/2022 7:44 PM] carlitox477
+😄
+
+
+[11/21/2022 9:27 PM] rokinot
+idk if judges can comment this, but if possible, could they explain what happened behind the scenes for this contest?
+
+
+[11/21/2022 9:28 PM] carlitox477
+There were over 1000 issues reported, I guess it was that
+
+
+[11/22/2022 1:17 AM] road220
+just look at the number of dups 🙂
+
+
+[11/22/2022 1:17 AM] chaduke#3730
+@carlitox477wow, my first time has yet been announced yet. How do you feel?
+
+
+[11/22/2022 1:34 AM] carlitox477
+Quiet surprised and happy, enough money to go camping in 2 or 3 weeks xD
+
+
+[11/22/2022 1:38 AM] carlitox477
+My 2° highest payout, and I can't believe it was in my first contest. I spent a lot of time in this one. I've improved my audit process a lot since July/August. Happy with my progress. Just in this contest + some which I participated just during August gave me around 1.600 USD. I learned a lot, 1 high and 3 mediums + many gas and Qa. I'm a bit anxious to get my first job as a smart contract auditor, I feel confident about myself
+
+{Reactions}
+💜 (2) 
+
+[11/22/2022 1:42 AM] jayphbee
+Have u joined a audit company?
+
+
+[11/22/2022 1:48 AM] carlitox477
+Not yet 😢
+
+
+[11/22/2022 1:49 AM] carlitox477
+I guess my CV is not so amazing to pass the HR filter to get an interview 😂
+
+
+[11/22/2022 1:50 AM] carlitox477
+But I'm sure about my skills, I know I've a lot to improve, but I also know I've strong basis
+
+
+[11/22/2022 2:01 AM] jayphbee
+fighting
+
+
+[11/22/2022 3:53 AM] devabdee
+$35. Not bad. That was my first contest 😊
+
+{Reactions}
+🎉 (3) 
+
+[11/22/2022 5:22 AM] bearonbike#7864
+Guess everyone found the med bug i found, it only cost $0.05😂
+
+{Reactions}
+empathy (3) 
+
+[11/22/2022 7:39 AM] JohnSmith#1623
+is there a findings.csv for this contest?
+
+
+[11/22/2022 7:44 AM] carlitox477
+There is only one finding.csv for all contest, and there is a pull request where this file is modified to add rewards. The commit which added rewards for this contest is this one: https://github.com/code-423n4/code423n4.com/pull/5583/commits/afa9a0b0dc41e78fa6b9be243d7687700830eef8
+
+{Embed}
+https://github.com/code-423n4/code423n4.com/pull/5583/commits/afa9a0b0dc41e78fa6b9be243d7687700830eef8
+20221121 cloud ellie by CloudEllie · Pull Request #5583 · code-423n...
+Code4rena - ARCHIVE-Q3-2022 - golom-july26 [1000079019129184286].txt_Files/84729667-C9F7E
+
+{Reactions}
+thankyou (2) 
+
+[11/22/2022 7:50 AM] ikhlas1
+Is the report published ?
+
+
+[11/22/2022 7:50 AM] JohnSmith#1623
+is there a way to get notified when the report is published?
+
+
+[11/22/2022 8:02 AM] carlitox477
+They usually do an announcement, also pay attention to code4rena/code423n4.com repo updates
+
+{Reactions}
+👍 
+
+[11/22/2022 9:19 AM] jayphbee
+This is my first contest. 1 medium bug achievement.
+
+{Reactions}
+👏 (7) nice (4) 🇲 (2) 
+
+[11/23/2022 12:21 AM] CRYP70#8985
+Wooohoo first high on C4 🎉
+
+{Reactions}
+🎉 (4) 
+
+[11/23/2022 12:43 AM] itsmetechjay
+Please note that the award announcement has been updated.  See this post in #🐺wardens for more info: https://discord.com/channels/810916927919620096/810936719003090974/1044690263429369866
+
+
+==============================================================
+Exported 297 message(s)
+==============================================================
